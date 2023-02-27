@@ -1,4 +1,4 @@
-# Theme 1.0: Project Setup
+# Theme 1.0: Project Setup - Pil Jang (Alex Jang)[NJIT ID: PJ53]
 ## Overview
 Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
 develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
