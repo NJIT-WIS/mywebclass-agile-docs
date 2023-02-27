@@ -6,5 +6,4 @@ less mistake on initiating things and responses from the users can quickly trans
 ultimately benefit long-term wise.
 
 # List initiatives related to this theme
-1. [Initiative](mywebclass-agile-docs/documentation/templates/theme/initiatives/initiative_template.md)
-2. [dfdfd](mywebclass-agile-docs/documentation/templates/theme/initiatives/initiative_template.md)
+1. [Initiative](initiatives/initiative_template.md)
