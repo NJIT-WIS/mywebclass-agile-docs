@@ -5,7 +5,7 @@ web project. By completing the initiatives outlined in this theme, we can establ
 requirements throughout the life of the project, setting us up for long-term success.
 ## Initiative(s)
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
+* [Develop initial project documentation to establish a clear project scope.](initiatives/theme_project_setup.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
 
