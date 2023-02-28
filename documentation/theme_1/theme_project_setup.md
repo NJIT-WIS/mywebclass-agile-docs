@@ -1,8 +1,8 @@
 # Theme 1.0: Project Setup - Pil Jang (Alex Jang)[NJIT ID: PJ53]
 ## Overview
-Objective is to create a website for PROJECT 1 using lean and agile principles that involves processes that prioritizes efficiency, continuous improvement, 
-and customer satisfaction. The process of delivering value to our audience through a collaborative and iterative process allows flexibility and adaptation 
-to change. In order maintain long-term success and meet business requirements, initiatives in the theme must be completed.
+Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively develop a strong foundation for our 
+web project. By completing the initiatives outlined in this theme, we can establish a solid foundation that ensures our web page meets our business 
+requirements throughout the life of the project, setting us up for long-term success.
 ## Initiative(s)
 
 * [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
