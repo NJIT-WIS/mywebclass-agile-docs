@@ -14,4 +14,5 @@ requirements throughout the life of the project, setting us up for long-term suc
   * Project metrics to continuously improve the management of the project
 
 ## Test plan
-How will this be tested?
+Customer Validation Testing - Customer validation testing is a process of testing a product with real customers to validate its value proposition, 
+usability, and market fit. 
