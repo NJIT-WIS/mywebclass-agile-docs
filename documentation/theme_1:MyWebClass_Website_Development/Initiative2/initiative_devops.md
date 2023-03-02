@@ -1,4 +1,4 @@
-"Automating and Streamlining Website Development with DevOps Practices"
+"Automating and Streamlining MyWebClass Development with DevOps Practices"
 
 Description: This DevOps initiative aims to optimize the website development process by implementing various automation
 and streamlining techniques. The initiative will focus on using continuous integration and continuous delivery (CI/CD) 
@@ -74,3 +74,9 @@ and quality standards.
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+## Epics
+* [Automated testing to catch issues early on and adapt to changing requirements
+* [Automated deployment of the current development branch to team members local environments to facilitate manual review
+
+## Test Plan
+How will these be tested?
