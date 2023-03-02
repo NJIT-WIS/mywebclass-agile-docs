@@ -1,4 +1,4 @@
-"Title of the Epic"
+#Establishing Clear Project Scope through Agile Lean Documentation
 
 Description: [A brief description of the epic]
 
