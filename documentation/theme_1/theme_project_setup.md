@@ -8,11 +8,8 @@ us up for long-term success.
 
 * [Develop initial project documentation to establish a clear project scope.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiative_basic_webpage_template.md)
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiative_devops.md)
-* [Create an initial web page template that includes features for user convenience](initiatives/initiative_webpage_template.md)
-
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
-
+* [Create an initial web page template that includes features for user convenience](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/initiative_webpage_template.md)
+* [Monitoring to continuously improve the quality of our project]()
+  
 ## Test plan
 How will this be tested?
