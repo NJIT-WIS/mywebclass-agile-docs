@@ -1,4 +1,4 @@
-"As a [student], I want to [allow students to see their courses] so that [they can get their coourse information]."
+"As a [student], I want to [allow students to see their courses] so that [they can get their course information]."
 
 By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
 
@@ -6,11 +6,7 @@ By following this template, you can create user stories that are structured and 
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+Students can access their course information
 
 
 # List Stories related to this theme
