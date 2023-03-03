@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: [Add course information]
 
-User Story: [Reference the user story that this task supports]
+User Story: [User Story #1]
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: [Gain access to and show course information]
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: [1-2 Weeks]
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: [Project Manager & Lead Senior Programmer]
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: [1]
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: [Not started]
 
-Notes: [Include]
+Notes: [N/a]
