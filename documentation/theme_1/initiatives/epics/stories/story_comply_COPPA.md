@@ -8,6 +8,3 @@
 * Provide parents with the ability to access, modify, or delete their child's personal data, as required by COPPA.
 * Designate a responsible party within the organization to be responsible for COPPA compliance and ensure that all relevant employees are trained on COPPA requirements.
 * Regularly review and update the website's privacy policy and procedures to ensure continued compliance with COPPA and other relevant data protection laws and regulations.
-## Test plan
-Ensure consent when collecting data
-* Check if website has cookie banner

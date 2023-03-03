@@ -7,6 +7,3 @@
 * Integrate the consent mechanism into the website so that it is prominently displayed and easily accessible to users.
 * Update the website's privacy policy to include information about the data being collected through Google Analytics and how user consent is obtained.
 * Monitor the effectiveness of the consent mechanism and adjust it as necessary to ensure compliance with changing legal requirements.
-## Test plan
-Ensure consent when collecting data
-* Check if website has cookie banner

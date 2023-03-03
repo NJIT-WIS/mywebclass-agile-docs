@@ -5,6 +5,3 @@
 * Configure automated testing for each build. 
 * Create deployment scripts that can be run automatically. 
 * Implement a rollback mechanism in case of deployment failures.
-## Test plan
-Ensure consent when collecting data
-* Check if website has cookie banner

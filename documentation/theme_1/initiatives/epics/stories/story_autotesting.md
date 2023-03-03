@@ -7,6 +7,3 @@
 * Integrate the pipeline with version control system (VCS) like Git. 
 * Establish a deployment strategy and ensure that all deployments are consistent and repeatable. 
 * Ensure that the results of the pipeline are logged and accessible
-## Test plan
-Ensure consent when collecting data
-* Check if website has cookie banner

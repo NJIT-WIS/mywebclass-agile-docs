@@ -8,6 +8,3 @@
 * Provide users with the ability to access, modify, or delete their personal data, as required by the GDPR.
 * Appoint a data protection officer (DPO) who is responsible for ensuring compliance with the GDPR and who serves as a point of contact for data subjects and regulatory authorities.
 * Regularly review and update the website's privacy policy and procedures to ensure continued compliance with the GDPR and other relevant data protection laws and regulations.
-## Test plan
-Ensure consent when collecting data
-* Check if website has cookie banner

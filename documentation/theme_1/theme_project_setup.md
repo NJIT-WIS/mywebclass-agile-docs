@@ -8,6 +8,4 @@ us up for long-term success.
 
 * [Be able to legally gain information from users who visit webiste](initiatives/initiative_gather_user_info.md)
 * [Set up DevOps for documentation](initiatives/initiative_devops_setup.md)
-
-## Test plan
-How will this be tested?
+* [Develop initial project documentation to establish a clear project scope](initiatives/initiative_documentation.md)
