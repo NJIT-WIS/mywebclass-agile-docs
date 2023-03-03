@@ -14,4 +14,4 @@ The test automation code is maintainable and easy to update.
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
