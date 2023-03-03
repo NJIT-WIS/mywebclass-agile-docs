@@ -30,3 +30,9 @@ Set up a Google Analytics account for MyWebClass and generate a tracking code th
 Setting up Google Analytics will provide valuable insights into website traffic, user behavior, and engagement metrics, enabling MyWebClass to make data-driven decisions that improve the user experience and drive business growth.
 
 ## Priority: High
+
+# List stories related to this theme
+1. [As a website owner, I want to create a Google Analytics account for MyWebClass so that I can track website traffic and user behavior.](stories/story_01.md)
+2. [As a website owner, I want to generate a tracking code for the website so that I can collect relevant data.](stories/story_02.md)
+3. [As a website owner, I want to integrate Google Analytics with the website to ensure that data is being collected properly.](stories/story_03.md)
+4. [As a website owner, I want to verify that the tracking code is working as intended to ensure that data is being collected accurately.](stories/story_04.md)
