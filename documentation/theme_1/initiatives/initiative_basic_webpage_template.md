@@ -31,18 +31,20 @@ Project management documentation that includes a risk management plan, communica
 
 ### Assumptions:
 
-The development team is available to collaborate on the project plan and project management documentation
+The development team is available to collaborate on the project plan and project management documentation</br>
 The project plan and documentation will be approved by relevant stakeholders
 
 ### Risks:
 
-Delays in the development of the project plan and project management documentation may impact the overall project timeline
-Inadequate project planning and management may lead to cost overruns and quality issues
-Dependencies: None
+Delays in the development of the project plan and project management documentation may impact the overall project timeline</br>
+Inadequate project planning and management may lead to cost overruns and quality issues</br>
+
+### Dependencies: 
+None
 
 ### Team:
 
-Project Manager: Responsible for overseeing the development of the project plan and project management documentation
+Project Manager: Responsible for overseeing the development of the project plan and project management documentation</br>
 Development Team: Collaborate on the development of the project plan and project management documentation.
 
 
