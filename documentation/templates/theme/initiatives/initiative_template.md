@@ -16,7 +16,7 @@ Constraints: [Ability to access student details and course information]
 
 Assumptions: [Students will want to access all their information in one spot]
 
-Risks: [Security issues with student information: encyption]
+Risks: [Security issues with student information: encyption
 
 Dependencies: [Access to student information]
 
