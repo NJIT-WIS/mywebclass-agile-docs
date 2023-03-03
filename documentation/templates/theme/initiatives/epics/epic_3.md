@@ -1,4 +1,4 @@
-#Automated deployment of the current development branch to team members local environments to facilitate manual review
+##Automated deployment of the current development branch to team members local environments to facilitate manual review
 
 Description: This epic involves implementing an automated deployment system that will allow team members to easily deploy the current development branch to their local environments, in order to facilitate manual review and testing.
 

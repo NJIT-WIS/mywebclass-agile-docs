@@ -1,4 +1,4 @@
-#Establishing Clear Project Scope through Agile Lean Documentation
+##Establishing Clear Project Scope through Agile Lean Documentation
 
 Description: This epic aims to develop a new e-commerce platform for an online retailer.
 

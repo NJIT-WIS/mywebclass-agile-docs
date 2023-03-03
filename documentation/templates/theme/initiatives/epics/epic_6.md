@@ -1,4 +1,4 @@
-#Define quality metrics and standards for the project, and establish a process to monitor and evaluate project performance against these metrics.
+##Define quality metrics and standards for the project, and establish a process to monitor and evaluate project performance against these metrics.
 
 Description: This epic involves defining quality metrics and standards for the project and establishing a process to monitor and evaluate project performance against these metrics.
 

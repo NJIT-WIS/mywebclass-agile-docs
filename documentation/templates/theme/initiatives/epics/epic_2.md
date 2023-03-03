@@ -1,4 +1,4 @@
-#Automated testing to catch issues early on and adapt to changing requirements
+##Automated testing to catch issues early on and adapt to changing requirements
 Description: This epic involves implementing automated testing to improve the quality and reliability of software products, and to adapt to changing requirements more efficiently.
 
 Goals: Improve the accuracy and speed of testing
