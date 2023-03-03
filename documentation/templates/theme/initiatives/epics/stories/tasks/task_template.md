@@ -1,4 +1,5 @@
-# Set up Google Analytics Tracking Code
+# Tasks
+## Set up Google Analytics Tracking Code
 
 User Story: As a website administrator, I want to set up the Google Analytics tracking code on the website so that I can measure user behavior and improve the website's performance.
 
@@ -14,7 +15,7 @@ Status: In progress
 
 Notes: It is important to ensure that the tracking code is properly installed and configured to comply with GDPR privacy regulations. This may require additional time for research and testing.
 
-# Customize tracking settings to capture relevant metrics
+## Customize tracking settings to capture relevant metrics
 User Story: As a website administrator, I want to customize the tracking settings of Google Analytics so that I can capture relevant metrics that will help me make informed decisions about website performance and user behavior.
 
 Description: The task involves customizing the Google Analytics tracking settings to capture relevant metrics such as pageviews, bounce rate, user location, traffic source, and user demographics. The acceptance criteria include ensuring that the tracking code is implemented correctly, that the metrics captured align with the website's goals, and that privacy policies are adhered to, especially with regard to GDPR regulations. Dependencies for this task include completing the previous task of setting up the Google Analytics tracking code on the website.
@@ -29,7 +30,7 @@ Status: Not started
 
 Notes: N/A
 
-# Develop a GDPR compliant privacy policy and embed it on the website 
+## Develop a GDPR compliant privacy policy and embed it on the website 
 User Story: As a website user, I want to understand how my personal data is being collected, stored, and used on the website in compliance with GDPR regulations.
 
 Description: In order to comply with GDPR regulations, we need to develop a privacy policy that clearly outlines the type of personal data that is collected on the website, how it is stored and used, and what measures are in place to protect the data. The policy should be written in clear and concise language, and be easily accessible to website users. The policy should be embedded on the website in a prominent location, such as the footer or a dedicated privacy policy page. Acceptance criteria include:
@@ -52,7 +53,7 @@ Notes: The legal team will be responsible for drafting the privacy policy, while
 will be responsible for embedding it on the website. Regular communication between the two teams will be 
 necessary to ensure that the policy is fully compliant with GDPR regulations and effectively embedded on the website.
 
-#  Develop a responsive and accessible website design.
+##  Develop a responsive and accessible website design.
 User Story: As a user of the website, I want to be able to access and use the website on any device and have an accessible and easy to navigate design.
 
 Description: The task is to redesign the website to make it more accessible to all users. This will include implementing responsive design principles such as fluid layouts, flexible images.
@@ -69,7 +70,7 @@ Notes: The redesign will involve collaboration between the design and developmen
 that the design is both aesthetically pleasing and functional. The team will also need to ensure that the
 new design does not negatively affect the performance of the website.
 
-# Implement navigation bar and article search function. 
+## Implement navigation bar and article search function. 
 
 User Story: As a teacher or student, I want to be able to easily navigate to different sections of the website and search for articles so that I can quickly find the information I need.
 
@@ -98,7 +99,7 @@ Status: Not started.
 Notes: The design of the navigation bar and search function 
 should be discussed with the UI/UX designer to ensure consistency with the overall design of the website.
 
-# Create Frequently Asked Questions (FAQ) 
+## Create Frequently Asked Questions (FAQ) 
 
 User Story: 
 As a user, I want to quickly and easily find answers to common questions about the website so that I can use it effectively.
