@@ -16,6 +16,5 @@
 2. Customize tracking settings to capture relevant metrics 
 3. Develop a GDPR compliant privacy policy and embed it on the website 
 4. Develop a responsive and accessible website design. 
-5. Implement navigation bar and article search function. 
-6. Create clear and concise instructions for using the website 
-7. frequently asked questions
+5. Implement navigation bar and article search function.
+6. frequently asked questions
