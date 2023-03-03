@@ -1,20 +1,33 @@
 #Establishing Clear Project Scope through Agile Lean Documentation
 
-Description: [A brief description of the epic]
+Description: This epic aims to develop a new e-commerce platform for an online retailer.
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: Improve the customer shopping experience
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: 
 
-Dependencies: [List any dependencies that may impact the epic]
+1. As a customer, users want to be able to filter products based on various criteria, such as price, size, color, etc., so that I can easily find what I am looking for.
 
-Risks: [List the potential risks and mitigation strategies]
+2. As a customer, users want to be able to see product reviews and ratings from other customers, so that I can make informed purchasing decisions.
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Dependencies: Integration with the existing inventory management system
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Risks: 
+- Technical difficulties during integration with existing systems
+- Delay in delivery of third-party components
+- Mitigation strategies:
+  - Conduct thorough testing during development and integration phases 
+  - Use reliable third-party components and have backup plans in place 
+  - Conduct market research and gather customer feedback before and after deployment
 
-Priority: [Assign a priority to the epic]
+Estimated Effort: 6 months
+
+Business Value: Increased sales and revenue
+
+Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+
+1. As a customer, users want to be able to filter products based on various criteria, such as price, size, color, etc., so that I can easily find what I am looking for.
+
+2. As a customer, users want to be able to see product reviews and ratings from other customers, so that I can make informed purchasing decisions.
