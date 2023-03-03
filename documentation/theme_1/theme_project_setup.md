@@ -12,5 +12,5 @@ us up for long-term success.
 * [Monitoring to continuously improve the quality of our project](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/monitoring_template.md)
 * [Legal requirements of the project](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/legal_template.md)
 
-## Test plan
+## Test plans
 The objective of this test plan is to establish a highly visible web presence using lean and agile principles to quickly and effectively develop a strong foundation for our web project. The purpose of this test plan is to ensure that the initiatives outlined in this theme are completed successfully, and the web page meets the business requirements throughout the life of the project. This test plan will outline the scope, objectives, approach, test strategy, and deliverables of the testing process.
