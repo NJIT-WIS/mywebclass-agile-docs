@@ -43,4 +43,4 @@ Web Developer: Implements the website template design and integrates Google Anal
 Quality Assurance: Tests the website template to ensure compliance with legal requirements and technical standards.
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/epic_initiative_basic_webpage_template.md)
