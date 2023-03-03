@@ -14,4 +14,5 @@ The website should have the ability to share content from the website to other p
 
 
 # List Stories related to this theme
-1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Story potential customer]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_webpage_potential_cust.md")
+2. [Story visitor]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_webpage_visitor.md")
