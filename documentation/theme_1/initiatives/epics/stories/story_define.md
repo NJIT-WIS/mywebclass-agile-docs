@@ -4,4 +4,6 @@
 * Research and review project requirements to understand project scope.
 * Define project scope statement that outlines project objectives, deliverables, and exclusions.
 * Identify project constraints and assumptions and document them in the scope statement.
-* Review and validate scope statement with stakeholders to ensure accuracy and completeness.
+## Test Plan
+* Review the project documentation: Look through the project documentation, including the project charter, requirements document, and any other relevant documentation.
+* Review the project scope statement to ensure it clearly outlines the objectives, deliverables, and exclusions of the project.

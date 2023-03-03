@@ -9,3 +9,8 @@ us up for long-term success.
 * [Be able to legally gain information from users who visit webiste](initiatives/initiative_gather_user_info.md)
 * [Set up DevOps for documentation](initiatives/initiative_devops_setup.md)
 * [Develop initial project documentation to establish a clear project scope](initiatives/initiative_documentation.md)
+
+##Test Plan
+* Have an automatic tests to see if all legal requirements are satisfied
+* Check if the CI/CD pipelines are working correctly and automatically deploying code changes to the correct environments. Ensure that builds are triggered upon every code commit, and all tests are passing before deployment.
+* review the project documentation, which should include a project scope statement.
