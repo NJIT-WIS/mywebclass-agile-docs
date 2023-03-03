@@ -2,7 +2,7 @@ Task Title: [Add course information]
 
 User Story: [User Story #1]
 
-Description: [Gain access to and show course information]
+Description: [Gain access to and show course information. We will be making a card that has the course title, professor, and more information]
 
 Effort Estimate: [1-2 Weeks]
 
