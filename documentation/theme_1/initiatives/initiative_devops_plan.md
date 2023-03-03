@@ -55,4 +55,4 @@ Team:
     Monitoring and Analytics Specialist - Responsible for implementation of monitoring and analytics tools.
 
 # List epics related to this theme
-1. [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
+1. [Epic Devops]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\epic_devops.md")
