@@ -1,20 +1,20 @@
 "Title of the Epic"
 
-Description: [A brief description of the epic]
+Description: [Allowing students to acces their course information]
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: [Students can access their course information]
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: [Course listings available to see]
 
-Dependencies: [List any dependencies that may impact the epic]
+Dependencies: [Access to course information from NJIT]
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: [Not capable of gaining access to course information - changing initiative]
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Estimated Effort: [1-2 weeks]
 
-Business Value: [Specify the business value that will be delivered by the epic]
+Business Value: [Students will be able to access their information which will make them use the site]
 
-Priority: [Assign a priority to the epic]
+Priority: [1]
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
