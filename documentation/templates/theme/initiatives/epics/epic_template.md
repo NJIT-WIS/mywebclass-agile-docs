@@ -1,28 +1,35 @@
-# Analytics and Privacy Compliance: google analytic , W3C and  GDPR
-Description: This epic focuses on ensuring that the webpage for the Teacher Article Reading platform is compliant with privacy regulations and passes W3C validation and Lighthouse audits. The implementation of Google Analytics will also be incorporated for behavior tracking and analysis.
+# Analytics and Privacy Compliance: google analytic , W3C and  GDPR.
 
-Goals:
+Description: This epic focuses on ensuring that the webpage for the Teacher Article Reading platform 
+is compliant with privacy regulations and passes W3C validation and Lighthouse audits. The implementation
+of Google Analytics will also be incorporated for behavior tracking and analysis.
 
-Ensure compliance with GDPR privacy regulations
-Pass W3C validation and Lighthouse audits
-Implement Google Analytics for behavior tracking and analysis
+goals:
+
+1.Ensure compliance with GDPR privacy regulations
+2.Pass W3C validation and Lighthouse audits
+3.Implement Google Analytics for behavior tracking and analysis
+
 User Stories:
 
-As a website user, I want to be informed about the privacy policy and data collection practices, so that I can trust the platform and have control over my data.
-As a website administrator, I want to ensure the website passes W3C validation and Lighthouse audits, so that the website is accessible and optimized for performance.
-As a website administrator, I want to implement Google Analytics, so that I can track and analyze user behavior and improve the website experience.
+1.As a website user, I want to be informed about the privacy policy and data collection practices, so that I can trust the platform and have control over my data.
+2.As a website administrator, I want to ensure the website passes W3C validation and Lighthouse audits, so that the website is accessible and optimized for performance.
+3.As a website administrator, I want to implement Google Analytics, so that I can track and analyze user behavior and improve the website experience.
+
 Dependencies:
+1.Availability of resources for website development and compliance
+2.Availability of GDPR compliance and data privacy experts
 
-Availability of resources for website development and compliance
-Availability of GDPR compliance and data privacy experts
-Risks:
+Hazards:
+1.Potential legal implications for non-compliance with GDPR regulations
+2.Difficulty in ensuring all aspects of the website pass W3C validation and Lighthouse audits
+3.Inaccurate or incomplete data collected by Google Analytics
 
-Potential legal implications for non-compliance with GDPR regulations
-Difficulty in ensuring all aspects of the website pass W3C validation and Lighthouse audits
-Inaccurate or incomplete data collected by Google Analytics
 Estimated Effort: 2-3 weeks
 
-Business Value: The implementation of GDPR compliance, W3C validation, and Google Analytics will increase user trust and satisfaction, improve website accessibility and performance, and provide valuable insights for website optimization and growth.
+Business Value: The implementation of GDPR compliance, W3C validation, and Google Analytics will increase user 
+trust and satisfaction, improve website accessibility and performance, and provide valuable insights for website
+optimization and growth.
 
 Priority: High
 
@@ -31,33 +38,32 @@ Description: Develop a responsive and accessible website design that meets moder
 
 Goals:
 
-1-Create a professional and visually appealing website design that represents the MyWebClass.org brand.
-2-Make sure the website is fully accessible and usable by all users. Improve the user experience by making the website responsive and optimized for different screen sizes.
-
+Create a visually appealing and professional website design that represents the brand of MyWebClass.org.
+Ensure the website is fully accessible and usable by all users, including those with disabilities.
+Improve user experience by making the website responsive and optimized for different screen sizes.
 User Stories:
 
-1-As a website visitor, I want the website to be visually appealing and easy to navigate so that I can find the information I need quickly and easily.
-2-As a user with disabilities, I want the website to be fully accessible and compatible with assistive technologies so that I can use the website without barriers.
-
+As a website visitor, I want the website to be visually appealing and easy to navigate so that I can find the information I need quickly and easily.
+As a user with disabilities, I want the website to be fully accessible and compatible with assistive technologies so that I can use the website without any barriers.
+As a user on a mobile device, I want the website to be responsive and optimized for smaller screens so that I can access the website on-the-go.
 Dependencies:
 
-1-Availability of web designers and developers to work on the design and development of the website.
-2-Guidelines and accessibility standards that must be followed during the development process.
-
+Availability of web designers and developers to work on the design and development of the website.
+Accessibility guidelines and standards that need to be followed during the development process.
 Risks:
 
-1-The website may not be fully accessible, raising legal and ethical issues.
-2-The design may not be aesthetically pleasing, leading to less user engagement.
+The website may not be fully accessible, leading to legal and ethical issues.
+The website may not be optimized for all screen sizes, leading to a poor user experience.
+The design may not be aesthetically pleasing, leading to lower engagement from users.
 
-Estimated effort: 3 weeks
+Estimated Effort: 4-6 months
 
-Business value:
+Business Value:
 
-1-A professional and visually appealing website design will help build trust and credibility with users.
-2-An accessible website will ensure inclusion and increase the potential audience of the website.
-3-A responsive website design will improve the user experience and increase engagement.
-
-High priority
+A visually appealing and professional website design will help build trust and credibility with users.
+An accessible website will ensure inclusivity and increase the potential audience of the website.
+A responsive website design will improve user experience and increase engagement.
+Priority: High
 
 # Content Management:Implement a search function or navbar that allows teachers and students to find relevant articles
 Description: Implement a search function or navigation bar that allows teachers and students to find relevant articles easily, improving content management and improving the user experience.
