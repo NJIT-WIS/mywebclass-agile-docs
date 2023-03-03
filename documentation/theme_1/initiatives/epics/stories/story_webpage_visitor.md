@@ -13,4 +13,5 @@ The website should have a clear privacy policy and terms of service, accessible 
 
 
 # List Stories related to this theme
-1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Story owner]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_webpage_owner.md")
+2. [Story potential customer]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_webpage_potential_cust.md")
