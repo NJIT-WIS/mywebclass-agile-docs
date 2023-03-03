@@ -11,4 +11,4 @@ The product owner should be able to communicate any concerns or issues to the de
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
