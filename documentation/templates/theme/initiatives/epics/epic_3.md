@@ -8,7 +8,7 @@ Goals:
 
 User Stories: 
 
-1. As a developer, people want to be able to easily deploy the current development branch to my local environment, so that I can review and test changes more efficiently.
+1. [As a developer, people want to be able to easily deploy the current development branch to my local environment, so that I can review and test changes more efficiently.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_8.md)
 
 Dependencies: Availability of resources and expertise for implementing and managing the automated deployment system
 
