@@ -50,4 +50,4 @@ IT Manager: responsible for implementing necessary technical changes
 HR Manager: responsible for employee training on GDPR compliance
 
 # List epics related to this theme
-1. [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
+1. [Epic GDPR Comply]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\epic_gdpr_comply.md")
