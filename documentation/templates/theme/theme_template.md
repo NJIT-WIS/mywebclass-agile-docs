@@ -2,5 +2,4 @@ As a student, I want to easily find and access articles on the website so that I
 we can improve the user experience and make it easier for students to find relevant articles.
 
 # List initiatives related to this theme
-1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
-*Web page of articles to teach students
+1. [Web page of articles to teach students](initiatives/initiative_template.md)
