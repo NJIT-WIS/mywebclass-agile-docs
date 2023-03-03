@@ -1,4 +1,4 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
+"As a [student], I want to [allow students to see their courses] so that [they can get their coourse information]."
 
 By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
 
