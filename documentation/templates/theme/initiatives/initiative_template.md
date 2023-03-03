@@ -1,12 +1,12 @@
-"Title of the Initiative"
+"Mobile devices optimization"
 
-Description: [A brief description of the initiative]
+Description: [I want the website layout to adjust automatically to fit my device screen size]
 
-Goals: [List the goals or objectives of the initiative]
+Goals: [Ease navigation on mobile devices]
 
-Scope: [Define the scope of the initiative]
+Scope: [Create a website that is optimized for mobile devices by using responsive design techniques]
 
-Outcomes: [Describe the expected outcomes of the initiative]
+Outcomes: [the layout of the website will adjust automatically to fit the screen size of the device being used to view it]
 
 Deliverables: [List the expected deliverables of the initiative]
 
