@@ -12,4 +12,6 @@ In the event of a data breach, customers are promptly notified and provided with
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Story Customer 2]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_customer2.md")
+2. [Story employee]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_employee.md")
+3. [Story it admin]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_ITadmin.md")
