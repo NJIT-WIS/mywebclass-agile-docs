@@ -36,4 +36,4 @@ Business Value:
 Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [Story 1](../../../templates/theme/initiatives/epics/stories/story_template.md)
