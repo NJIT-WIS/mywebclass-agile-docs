@@ -60,3 +60,6 @@ Analytics data are within the scope of this initiative.
 
 ## Team: 
 * Marketing team
+
+# Epics related to this initiative
+1. [Set up Google Analytics account and tracking code](epics/epic_analytics_tracking.md)
