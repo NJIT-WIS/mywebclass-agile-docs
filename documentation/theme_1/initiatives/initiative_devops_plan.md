@@ -55,4 +55,4 @@ Team:
     Monitoring and Analytics Specialist - Responsible for implementation of monitoring and analytics tools.
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
