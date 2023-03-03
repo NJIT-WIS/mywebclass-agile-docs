@@ -12,7 +12,4 @@ us up for long-term success.
 * [Monitoring to continuously improve the quality of our project](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/monitoring_template.md)
   
 ## Test plan
-- Define the standard components for the initial web page template, including header, footer, navigation menu, and content sections.
-- Develop and implement the initial web page template using an agile lean approach.
-- Test the web page template for functionality, usability, and compatibility across various devices and browsers.
-- Gather feedback from stakeholders and team members to identify areas for improvement and incorporate changes as necessary to establish a consistent design framework.
+The objective of this test plan is to establish a highly visible web presence using lean and agile principles to quickly and effectively develop a strong foundation for our web project. The purpose of this test plan is to ensure that the initiatives outlined in this theme are completed successfully, and the web page meets the business requirements throughout the life of the project. This test plan will outline the scope, objectives, approach, test strategy, and deliverables of the testing process.
