@@ -22,22 +22,26 @@ Dependencies:
 Approval from stakeholders and management
 Availability of design and development resources
 Integration with existing backend systems and databases
+
 Risks:
 
 Technical issues that delay the project timeline
 Changes in business objectives or requirements that impact the project scope
 Limited resources that impact the quality or functionality of the website
+
 Estimated Effort:
 
 Website redesign and development: 6 months
 Content development: 2 months
 Search engine optimization: 1 month
 Testing and quality assurance: 1 month
+
 Business Value:
 
 Increased website traffic, customer engagement, and conversion rates
 A modern, user-friendly website that reflects the company's brand and value proposition
 Improved online visibility and SEO
+
 Priority:
 
 High, as the current website is impacting the company's online presence and revenue growth.
