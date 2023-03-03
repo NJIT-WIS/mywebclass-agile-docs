@@ -100,9 +100,11 @@ should be discussed with the UI/UX designer to ensure consistency with the overa
 
 # Create Frequently Asked Questions (FAQ) 
 
-User Story: As a user, I want to quickly and easily find answers to common questions about the website so that I can use it effectively.
+User Story: 
+As a user, I want to quickly and easily find answers to common questions about the website so that I can use it effectively.
 
-Description: This task involves creating a Frequently Asked Questions (FAQ) page on the website 
+Description:
+This task involves creating a Frequently Asked Questions (FAQ) page on the website 
 that addresses common user questions and concerns. The content for the FAQ page will need to be researched
 and written, and the page will need to be designed and formatted in a clear and user-friendly way. The acceptance criteria for this task are that the FAQ page should have at least 10 questions and answers, and should cover a range of topics related to the website and its features. The FAQ page should also be easily accessible from the main navigation menu and should be easy to read and understand.
 
@@ -114,22 +116,8 @@ Priority: Medium
 
 Status: Not started
 
-Notes: The content writer will need to research common user questions and concerns, while the web developer 
+Notes: 
+
+The content writer will need to research common user questions and concerns, while the web developer 
 will need to design and format the FAQ page to be easily accessible and readable. The FAQ page should also be 
 regularly reviewed and updated as needed to ensure that it remains relevant and helpful to users.
-
-Task Title: [Short, descriptive title for the task]
-
-User Story: [Reference the user story that this task supports]
-
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
-
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
-
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
-
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
-
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
