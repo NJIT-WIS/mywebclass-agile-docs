@@ -52,4 +52,4 @@ Team:
     Analytics Specialist - Responsible for implementation of analytics and tracking
 
 # List epics related to this theme
-1. [Epic webpage](../../templates/theme/initiatives/epics/epic_template.md)
+1. [Epic webpage]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\epic_basic_webpage.md")
