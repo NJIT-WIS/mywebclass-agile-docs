@@ -10,7 +10,7 @@ us up for long-term success.
 * [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
 * [Create an initial web page template that includes](initiatives/initiative_basic_webpage_template.md)
 
-* Monitoring to continuously improve the quality of our project
+* [Monitoring to continuously improve the quality of our project](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/monitor_quality)
   * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
   * Project metrics to continuously improve the management of the project
 
