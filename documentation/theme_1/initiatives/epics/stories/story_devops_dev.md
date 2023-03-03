@@ -10,4 +10,4 @@ The version control system is regularly backed up to prevent data loss or corrup
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
