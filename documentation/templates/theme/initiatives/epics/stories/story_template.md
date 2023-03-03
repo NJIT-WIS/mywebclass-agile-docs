@@ -10,11 +10,10 @@
 5. The website must integrate Google Analytics tracking code to measure user behavior, traffic sources and other metrics.
 
 
-# List Stories related to this theme
-1. [tasks](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
-1. Set up the Google Analytics tracking code on the website
+# List Task related to this theme
+1. [Set up the Google Analytics tracking code on the website](tasks/task_template.md)
 2. Customize tracking settings to capture relevant metrics 
 3. Develop a GDPR compliant privacy policy and embed it on the website 
 4. Develop a responsive and accessible website design. 
 5. Implement navigation bar and article search function.
-6. frequently asked questions
+6. Frequently asked questions
