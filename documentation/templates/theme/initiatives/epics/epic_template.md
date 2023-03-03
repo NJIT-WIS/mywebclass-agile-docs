@@ -1,4 +1,4 @@
-"Title of the Epic"
+"Course Information"
 
 Description: [Allowing students to acces their course information]
 
