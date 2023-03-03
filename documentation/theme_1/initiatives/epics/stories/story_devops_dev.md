@@ -10,4 +10,6 @@ The version control system is regularly backed up to prevent data loss or corrup
 
 
 # List Stories related to this theme
-1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Story tester]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_tester.md")
+2. [Story product owner]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_prod_owner.md")
+3. [Stories op member]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_op_member.md")
