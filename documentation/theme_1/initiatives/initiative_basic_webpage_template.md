@@ -1,53 +1,46 @@
-# Initiative: Create a Basic Project Plan and Project Management Documentation
+# Initiative 1: "MyWebClass.org Base Website Template"
 
 ### Description: 
-This initiative involves creating a comprehensive project plan and project management documentation to guide the development and implementation of the MyWebClass website.
+
+Develop a basic website template for MyWebClass.org that meets all legal requirements, allows for Google Analytics integration, passes w3c validation, Lighthouse, GDPR Scanner, and implements basic on-page SEO requirements.
 
 ### Goals:
 
-Develop a clear and concise project plan that outlines the project scope, goals, objectives, timeline, and resource requirements</br>
-Create project management documentation that includes a risk management plan, communication plan, quality assurance plan, and change management plan
-Ensure that the project plan and documentation are aligned with the overall business strategy and objectives
+Create a website template that meets all legal requirements and allows for Google Analytics integration.
+Ensure the website template passes w3c validation, Lighthouse, GDPR Scanner, and implements basic on-page SEO requirements.
 
 ### Scope: 
-This initiative will cover the development of a comprehensive project plan and project management documentation that will guide the MyWebClass website development team throughout the project lifecycle.
+The scope of this initiative is limited to the development of a basic website template that meets legal requirements and allows for Google Analytics integration.
 
 ### Outcomes:
-
-A well-defined project plan that will guide the development and implementation of the MyWebClass website</br>
-Comprehensive project management documentation that outlines the risk management plan, communication plan, quality assurance plan, and change management plan</br>
-Alignment of the project plan and documentation with the overall business strategy and objectives
+A basic website template that meets legal requirements and allows for Google Analytics integration.
+Website template that passes w3c validation, Lighthouse, GDPR Scanner, and implements basic on-page SEO requirements.
 
 ### Deliverables:
-
-Project plan document that outlines the project scope, goals, objectives, timeline, and resource requirements</br>
-Project management documentation that includes a risk management plan, communication plan, quality assurance plan, and change management plan
+MyWebClass.org base website template that meets legal requirements
+Google Analytics integration, W3c validation, Lighthouse, GDPR Scanner, and basic on-page SEO requirements implemented
 
 ### Milestones:
-
-1. Completion of the project plan within two weeks</br>
-2. Completion of the project management documentation within three weeks</br>
-3. Constraints: Limited resources and tight deadlines may impact the completion of this initiative.</br>
+Milestone 1: Legal requirements identified and documented (2 weeks) </br>
+Milestone 2: Website template design completed (4 weeks) </br>
+Milestone 3: Website template development completed (8 weeks) </br>
+Constraints: Limited resources and budget may impact the speed of development and the level of complexity that can be achieved.
 
 ### Assumptions:
-
-The development team is available to collaborate on the project plan and project management documentation</br>
-The project plan and documentation will be approved by relevant stakeholders
+It is assumed that there will be no major changes to legal requirements or Google Analytics integration during the development process.
 
 ### Risks:
-
-Delays in the development of the project plan and project management documentation may impact the overall project timeline</br>
-Inadequate project planning and management may lead to cost overruns and quality issues</br>
-
-### Dependencies: 
-None
+Development delays due to unforeseen technical issues
+Lack of compatibility with some browsers or devices
+Legal compliance issues
+Inability to integrate Google Analytics
+Dependencies: Access to legal resources and Google Analytics documentation.
 
 ### Team:
-
-Project Manager: Responsible for overseeing the development of the project plan and project management documentation</br>
-Development Team: Collaborate on the development of the project plan and project management documentation.
-
-
+Project Manager: Oversees the development process and ensures compliance with legal requirements.
+Designer: Develops the visual design of the website template.
+Web Developer: Implements the website template design and integrates Google Analytics.
+Quality Assurance: Tests the website template to ensure compliance with legal requirements and technical standards.
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
