@@ -8,7 +8,7 @@ Goals:
 
 User Stories: 
 
-1. As a project manager, users want to research and define relevant quality metrics and standards for the project.
+1. [As a project manager, users want to research and define relevant quality metrics and standards for the project.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_6.md)
 
 Dependencies: Availability of relevant data and information.
 

@@ -26,4 +26,4 @@ Priority: High
 
 # List stories related to this theme
 
-1. Users want the website to load quickly and smoothly, so that users can navigate through it easily.
+1. [Users want the website to load quickly and smoothly, so that users can navigate through it easily.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_2.md)

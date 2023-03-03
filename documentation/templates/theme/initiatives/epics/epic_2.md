@@ -5,7 +5,7 @@ Goals: Improve the accuracy and speed of testing
 
 User Stories: 
 
-1.As a developer, people want to be able to create automated tests that can be run quickly and easily, so that developers can catch issues early on and improve productivity.
+1.[As a developer, people want to be able to create automated tests that can be run quickly and easily, so that developers can catch issues early on and improve productivity.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_3.md)
 
 Dependencies: Availability of resources and expertise for implementing and managing automated testing
 

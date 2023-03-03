@@ -9,7 +9,7 @@ Goals:
 
 User Stories: 
 
-1. As a web developer, users want to regularly update and maintain the web page template to ensure it remains functional and bug-free.
+1. [As a web developer, users want to regularly update and maintain the web page template to ensure it remains functional and bug-free.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_5.md)
 
 Dependencies: Availability of resources and expertise for web design and development
 

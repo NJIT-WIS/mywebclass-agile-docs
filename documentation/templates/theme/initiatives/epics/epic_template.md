@@ -6,9 +6,9 @@ Goals: Improve the customer shopping experience
 
 User Stories: 
 
-1. As a customer, users want to be able to filter products based on various criteria, such as price, size, color, etc., so that I can easily find what I am looking for.
+1. [As a customer, users want to be able to filter products based on various criteria, such as price, size, color, etc., so that I can easily find what I am looking for.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_template.md)
 
-2. As a customer, users want to be able to see product reviews and ratings from other customers, so that I can make informed purchasing decisions.
+2. [As a customer, users want to be able to see product reviews and ratings from other customers, so that I can make informed purchasing decisions.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_1.md)
 
 Dependencies: Integration with the existing inventory management system
 

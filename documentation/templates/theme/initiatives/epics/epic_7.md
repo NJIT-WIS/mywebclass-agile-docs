@@ -8,7 +8,7 @@ Goals:
 
 User Stories: 
 
-1. As a project manager, I want to review project performance metrics on a regular basis so that I can identify areas for improvement.
+1. [As a project manager, I want to review project performance metrics on a regular basis so that I can identify areas for improvement.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_6.md)
 
 Dependencies: Willingness of team members to accept feedback and make improvements
 
