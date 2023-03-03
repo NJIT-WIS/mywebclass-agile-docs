@@ -52,4 +52,4 @@ Team:
     Analytics Specialist - Responsible for implementation of analytics and tracking
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](../../templates/theme/initiatives/epics/epic_template.md)
