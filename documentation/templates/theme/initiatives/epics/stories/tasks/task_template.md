@@ -1,15 +1,19 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: [Identify the filter options that will be available to the user.]
 
-User Story: [Reference the user story that this task supports]
+User Story: ["As a customer, users want to be able to filter products based on various criteria, such as price, size, color, etc., so that I can easily find what I am looking for."]
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: Identify the filter options that will be available to the user. The task involves reviewing the product features and identifying the key attributes that users would want to filter reviews by, such as rating, date, relevance, and helpfulness. The acceptance criteria include that the filter options should be intuitive and easy to use, and they should help users find the information they need quickly and easily.
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: 6 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Product Manager
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: Medium
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: Completed
 
-Notes: [Include]
+Notes: The product manager will need to work closely with the design and development teams to ensure that the filter options are accurately reflected in the user interface and API. They should also test the filter options with users to ensure they are working correctly and meet their needs. Any technical dependencies should be identified and addressed early in the design process. Once the filter options are identified, they will need to be reviewed and approved by the product team before implementation. The product manager should also document the filter options to make it easier for other team members to use.
+
+
+
+

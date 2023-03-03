@@ -1,17 +1,15 @@
-"As a [user role], I want to [do something] so that [achieve a specific goal]."
-
-By following this template, you can create user stories that are structured and easy to understand. To make the user story even more effective, you can add acceptance criteria that specify the requirements that must be met to consider the user story complete. Here's an example of a user story with acceptance criteria:
-
-"As a customer, I want to view my order history so that I can track my past purchases."
+"As a customer, users want to be able to filter products based on various criteria, such as price, size, color, etc., so that I can easily find what I am looking for."
 
 Acceptance Criteria:
 
-The order history page displays a list of all past orders, including the date, order number, and total cost.
-Each order in the list is clickable and leads to a detailed view of the order.
-The detailed view of the order includes the list of items purchased, the quantities, the prices, and any discounts applied.
-The order history page can be accessed from the customer account dashboard.
-The order history page is only accessible to authenticated customers.
+- Users should be able to filter products based on different criteria. 
+- The filters should include at least price, size, and color. 
+- Filters should be applied instantly, without the need for the page to reload. 
+- Users should be able to clear all filters with a single click. 
+- The filter options should be easy to understand and use. 
+- The filtered products should be displayed in a clear and organized way.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List tasks related to this theme
+1. [Identify the filter options that will be available to the user.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+2. [Design a user-friendly interface to display the filter options.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_1.md)
