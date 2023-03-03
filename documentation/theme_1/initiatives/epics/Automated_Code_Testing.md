@@ -10,8 +10,6 @@ Goals:
 
 User Stories:
 - As a developer, I want to be able to write automated tests for my code, so that I can detect and fix issues early on.
-- As a QA specialist, I want to be able to run automated tests on new builds, so that I can detect and report any issues early on.
-- As a product owner, I want to be able to review automated test results, so that I can have confidence in the quality of our products.
 - As a development manager, I want to be able to track the progress of automated testing, so that I can ensure that it is being done effectively.
 
 Dependencies:
