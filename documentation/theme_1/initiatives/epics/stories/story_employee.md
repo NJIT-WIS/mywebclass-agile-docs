@@ -11,5 +11,8 @@ A record is kept of which employees have completed the training, when they compl
 Regular refreshers are provided to keep employees up-to-date on any changes to GDPR regulations or company policies.
 
 
-# List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+# List Stories related to this theme1. 
+1. [Story Customer 1]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_customer1.md")
+2. [Story Customer 2]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_customer2.md")
+3. [Story it admin]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_ITadmin.md")
+
