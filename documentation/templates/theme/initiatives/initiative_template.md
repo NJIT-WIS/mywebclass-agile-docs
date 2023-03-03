@@ -71,8 +71,6 @@ Team:
 
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
-
-*Analytics and Privacy Compliance: google analytic , W3C and  GDPR
-*Develop a responsive and accessible website design
-*Content Management:Implement a search function or navbar that allows teachers and students to find relevant articles
+1. [Analytics and Privacy Compliance: google analytic , W3C and  GDPR](epics/epic_template.md)
+2. [Develop a responsive and accessible website design](epics/epic_template.md)
+3. [Content Management:Implement a search function or navbar that allows teachers and students to find relevant articles](epics/epic_template.md)
