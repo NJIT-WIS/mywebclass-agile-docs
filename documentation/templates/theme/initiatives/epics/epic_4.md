@@ -9,7 +9,7 @@ Goals:
 
 User Stories: 
 
-1. As a web designer, users want to create a visually appealing and user-friendly web page template, so that users are engaged and motivated to explore the website.
+1. [As a web designer, users want to create a visually appealing and user-friendly web page template, so that users are engaged and motivated to explore the website.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/story_4.md)
 
 Dependencies: Clear and accurate requirements and specifications for the web page template.
 

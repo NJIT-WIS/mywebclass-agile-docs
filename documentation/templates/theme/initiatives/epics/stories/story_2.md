@@ -1,4 +1,4 @@
-"As a developer, people want to be able to create automated tests that can be run quickly and easily, so that developers can catch issues early on and improve productivity."
+"Users want the website to load quickly and smoothly, so that users can navigate through it easily."
 
 Acceptance Criteria:
 
