@@ -11,5 +11,5 @@ Acceptance Criteria:
 
 
 # List tasks related to this theme
-1. Identify the filter options that will be available to the user. 
-2. Design a user-friendly interface to display the filter options.
+1. [Identify the filter options that will be available to the user.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+2. [Design a user-friendly interface to display the filter options.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_1.md)

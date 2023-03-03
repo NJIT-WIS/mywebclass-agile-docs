@@ -7,5 +7,5 @@ Acceptance Criteria:
 - The deployment process should not affect the stability or functionality of the local environment.
 
 # List tasks related to this theme
-1. Research and identify appropriate deployment tools and technologies for the project. 
-2. Set up a development environment that mirrors the production environment.
+1. [Research and identify appropriate deployment tools and technologies for the project.]()
+2. [Set up a development environment that mirrors the production environment.]()

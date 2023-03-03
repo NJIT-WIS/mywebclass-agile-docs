@@ -1,4 +1,4 @@
-Task Title: [Identify the requirements for the local environment to match the production environment as closely as possible.]
+Task Title: [Develop a script or tool to automate the deployment process.]
 
 User Story: ["As a developer, people want to be able to create automated tests that can be run quickly and easily, so that developers can catch issues early on and improve productivity."]
 

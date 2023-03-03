@@ -8,5 +8,5 @@ Acceptance Criteria:
 
 
 # List tasks related to this theme
-1. Develop a version control system to manage updates and changes to the web page template.
-2. Conduct a code review of the existing web page template to identify areas for improvement.
+1. [Develop a version control system to manage updates and changes to the web page template.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_10.md)
+2. [Conduct a code review of the existing web page template to identify areas for improvement.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_11.md)
