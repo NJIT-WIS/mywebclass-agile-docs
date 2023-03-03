@@ -1,7 +1,8 @@
-"As a [user role], I want to [user story] so that [benefit]. By [action], we can [project objective]. This will enable us to [project outcome]. By following [methodology/principles], we can quickly and effectively [project deliverables], setting us up for [long-term benefit]."
-
-You can fill in the placeholders with your own information to create a complete agile theme that outlines your project objectives, outcomes, and deliverables.
-
+As a student, I want to be able to access and read articles so that I can 
+learn more about a specific topic and improve my understanding of the material. With easy access to 
+articles, I can learn at my own pace and review material as needed. This will allow me to better prepare 
+for exams and develop a deeper understanding of the subject. By following best practices for presenting articles
+in an organized and easy-to-navigate format, the website is able to deliver content quickly and effectively, setting us up for success in our studies.
 
 # List initiatives related to this theme
 1. [Initiative](documentation/templates/theme/initiatives/initiative_template.md)
