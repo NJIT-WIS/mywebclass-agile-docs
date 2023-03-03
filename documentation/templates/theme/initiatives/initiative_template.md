@@ -10,7 +10,7 @@ Outcomes: [Students will be able to access all their information in one location
 
 Deliverables: [1-students can access their information 2-students can edit and add details to their coursework]
 
-Milestones: [0.2 - basic UX created 0.3 - course listing section 0.4 - coursework details 0.5 - grades section 1.0 - full release]
+Milestones: [0.2: basic UX created | 0.3: course listing section | 0.4: coursework details | 0.5: grades section | 1.0: full release]
 
 Constraints: [Ability to access student details and course information]
 
