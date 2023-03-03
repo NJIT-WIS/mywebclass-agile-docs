@@ -14,4 +14,6 @@ The test automation code is maintainable and easy to update.
 
 
 # List Stories related to this theme
-1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories op member]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_op_member.md")
+2. [Story devops developer]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_devops_dev.md")
+3. [Story product owner]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_prod_owner.md")
