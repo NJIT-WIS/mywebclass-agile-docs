@@ -11,4 +11,6 @@ The product owner should be able to communicate any concerns or issues to the de
 
 
 # List Stories related to this theme
-1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories op member]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_op_member.md")
+2. [Story devops developer]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_devops_dev.md")
+3. [Story tester]("C:\Users\nicko\PycharmProjects\pythonProject\mywebclass-agile-docs\documentation\theme_1\initiatives\epics\stories\story_tester.md")
