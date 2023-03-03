@@ -14,4 +14,4 @@ The website should have the ability to share content from the website to other p
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)

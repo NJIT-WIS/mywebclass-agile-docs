@@ -13,4 +13,4 @@ The website should have a privacy policy and terms of use that are easily access
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template.md)
+1. [Stories 1](../../../../templates/theme/initiatives/epics/stories/tasks/task_template.md)
