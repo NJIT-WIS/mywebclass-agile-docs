@@ -8,5 +8,5 @@ Acceptance Criteria:
 
 
 # List tasks related to this theme
-1. Identify the project goals and objectives.
-2. Research relevant quality metrics and standards for the project.
+1. [Identify the project goals and objectives.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_12.md)
+2. [Research relevant quality metrics and standards for the project.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_13.md)

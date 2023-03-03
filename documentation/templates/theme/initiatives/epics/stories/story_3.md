@@ -8,5 +8,5 @@ Acceptance Criteria:
 
 
 # List tasks related to this theme
-1. Identify the requirements for the local environment to match the production environment as closely as possible. 
-2. Develop a script or tool to automate the deployment process.
+1. [Identify the requirements for the local environment to match the production environment as closely as possible.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_6.md) 
+2. [Develop a script or tool to automate the deployment process.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_7.md)

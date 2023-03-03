@@ -10,5 +10,5 @@ Acceptance Criteria:
 
 
 # List tasks related to this theme
-1. Design a user interface to display product reviews and ratings.
-2. Create an API to fetch and display reviews and ratings data on the product page.
+1. [Design a user interface to display product reviews and ratings.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_2.md)
+2. [Create an API to fetch and display reviews and ratings data on the product page.](https://github.com/EDS435/mywebclass-agile-docs/blob/main/documentation/templates/theme/initiatives/epics/stories/tasks/task_3.md)
