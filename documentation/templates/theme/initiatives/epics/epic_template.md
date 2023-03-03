@@ -107,7 +107,6 @@ Business value:
 High priority
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
-* As a student, I want to be able to easily access and read my assigned papers, so I can learn at my own pace.
-* As the website administrator, I want to make sure that the website is GDPR compliant and has a clear privacy policy, so that users can trust our commitment to their privacy.
-* As a user, I want the website to be easy to navigate and use so that I can quickly find and read articles.
+1. [As a student, I want to be able to easily access and read my assigned papers, so I can learn at my own pace.](stories/story_template.md)
+2. [As the website administrator, I want to make sure that the website is GDPR compliant and has a clear privacy policy, so that users can trust our commitment to their privacy.](stories/story_template.md)
+3. [As a user, I want the website to be easy to navigate and use so that I can quickly find and read articles.](stories/story_template.md)
