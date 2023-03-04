@@ -35,7 +35,9 @@ Automated testing will be done using pytest for unit testing and Playwright for 
 
 ## Constraints
 - Limited resources for implementing the code quality monitoring process
+- May include a lack of budget, tools, or personnel to effectively implement the code quality monitoring process. 
 - Limited buy-in from some team members on the importance of monitoring code quality
+- Buy-in challenges refer to some team members not recognizing the significance of monitoring code quality, which can hinder the implementation proces
 
 ## Assumptions
 - Team members will be willing to adopt the code quality monitoring process
