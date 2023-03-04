@@ -152,6 +152,11 @@ us up for long-term success.
 3. [Academic Partnerships](documentation/templates/theme/initiatives/partnership_initiative.md)
 4. [Analytics System](documentation/templates/theme/initiatives/analytical_initiative.md)
 
+## Agile and Lean Plans
+1. [Agile plans](documentation/templates/theme/agile_lean_plan/agile_plan.md)
+2. [Lean plans](documentation/templates/theme/agile_lean_plan/lean_plan.md)
+
+
 ## Test plan
 
 1. [Test plan for Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/test_plan.md)
