@@ -6,9 +6,9 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Initiative(s)
 
-* [Be able to legally gain information from users who visit webiste](initiatives/initiative_gather_user_info.md)
-* [Set up DevOps for documentation](initiatives/initiative_devops_setup.md)
-* [Develop initial project documentation to establish a clear project scope](initiatives/initiative_documentation.md)
+* [GDPR compliance and data privacy](initiatives/initiative_GDPR_compliance.md)
+* [User behavior analysis through Google Analytics](initiatives/initiative_google_analytics.md)
+* [Efficient product development through DevOps](initiatives/initiative_devops_setup.md)
 
 ##Test Plan
 * Have an automatic tests to see if all legal requirements are satisfied
