@@ -11,5 +11,3 @@ Assigned To: [Assign the task to a team member who will be responsible for compl
 Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
 
 Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
-
-Notes: [Include]
