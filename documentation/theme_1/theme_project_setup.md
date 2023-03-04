@@ -4,15 +4,20 @@ Our objective is to establish a highly visible web presence using lean and agile
 develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
 solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
 us up for long-term success.
-## Initiative(s)
+## Themes
 
-* [Develop initial project documentation to establish a clear project scope.](initiatives/documentation_initiative.md)
-* [Set up the CI/CD DevOps processes to ensure efficient and collaborative development practices.](initiatives/initiative_devops.md)
-* [Create an initial web page template that includes](initiatives/initiative_webpage_template.md)
+1. [AI Education](../templates/theme/theme_template.md)
+2. [Cutting-Edge News](../templates/theme/theme_template.md)
+3. [Reinforcement Learning](../templates/theme/theme_template.md)
+4. [User Experience](../templates/theme/theme_template.md)
 
-* Monitoring to continuously improve the quality of our project
-  * Website analytics to collect data that can be used to continuously improve MyWebClass for our community members
-  * Project metrics to continuously improve the management of the project
+
+## Initiatives
+
+1. [Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/curriculum_initiative.md)
+2. [Expert Team](documentation/templates/theme/initiatives/expertteam_initiative.md)
+3. [Academic Partnerships](documentation/templates/theme/initiatives/partnership_initiative.md)
+4. [Analytics System](documentation/templates/theme/initiatives/analytical_initiative.md)
 
 ## Test plan
 How will this be tested?
