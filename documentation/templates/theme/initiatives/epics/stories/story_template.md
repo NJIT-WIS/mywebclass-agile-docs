@@ -1,4 +1,4 @@
-<!-- formatting  -->
+
 
 As a visitor to the website, I want to be able to search for products by category, so that I can find what I'm looking for quickly and easily.
 Acceptance Criteria:
