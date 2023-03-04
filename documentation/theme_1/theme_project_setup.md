@@ -20,4 +20,8 @@ us up for long-term success.
 4. [Analytics System](documentation/templates/theme/initiatives/analytical_initiative.md)
 
 ## Test plan
-How will this be tested?
+
+1. [Test plan for Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/test_plan.md)
+2. [Test plan for Expert Team](documentation/templates/theme/initiatives/test_plan.md)
+3. [Test plan for Academic Partnerships](documentation/templates/theme/initiatives/test_plan.md)
+4. [Test plan for Analytics System](documentation/templates/theme/initiatives/test_plan.md)
