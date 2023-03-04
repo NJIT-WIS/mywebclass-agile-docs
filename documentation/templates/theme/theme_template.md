@@ -15,7 +15,7 @@ This will enable this platform to become a go-to resource for AI education, attr
 By following agile methodology and design principles, we can quickly and effectively develop and refine our educational materials, 
 setting us up for long-term success as a leading educational resource in the AI field.
 
-### Cutting-Edge News
+### Cutting Edge News
 As an AI enthusiast, I want to access the latest news and developments in the AI and DL fields so that I can stay up-to-date with the most recent breakthroughs and trends. 
 By establishing partnerships with academic and industry organizations and implementing a robust analytics system, we can curate and deliver high-quality news content that 
 covers a wide range of topics in the AI field. This will enable us to become a trusted source of information and attract a diverse user base of AI enthusiasts and researchers. 
@@ -40,7 +40,7 @@ as a leading educational resource in the AI field.
 
 ### Initiatives:
 
-1. [Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/curriculum_initiative.md)
-2. [Expert Team](documentation/templates/theme/initiatives/expertteam_initiative.md)
-3. [Academic Partnerships](documentation/templates/theme/initiatives/partnership_initiative.md)
-4. [Analytics System](documentation/templates/theme/initiatives/analytical_initiative.md)
+1. [Comprehensive curriculum for AI education](initiatives/curriculum_initiative.md)
+2. [Expert Team](initiatives/expertteam_initiative.md)
+3. [Academic Partnerships](initiatives/partnership_initiative.md)
+4. [Analytics System](initiatives/analytical_initiative.md)

@@ -139,10 +139,10 @@ solid foundation that ensures our web page meets our business requirements throu
 us up for long-term success.
 ## Themes & Stories
 
-1. [AI Education](documentation/templates/theme/theme_template.md)
-2. [Cutting-Edge News](documentation/templates/theme/theme_template.md)
-3. [Reinforcement Learning](documentation/templates/theme/theme_template.md)
-4. [User Experience](documentation/templates/theme/theme_template.md)
+1. [AI Education](documentation/templates/theme/theme_template.md/#AI Education)
+2. [Cutting-Edge News](documentation/templates/theme/theme_template.md/#Cutting Edge News)
+3. [Reinforcement Learning](documentation/templates/theme/theme_template.md/#Reinforcement Learning)
+4. [User Experience](documentation/templates/theme/theme_template.md/#User Experience)
 
 
 ## Initiatives
@@ -166,7 +166,7 @@ us up for long-term success.
 
 ## Test plan
 
-1. [Test plan for Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/test_plan.md)
+1. [Test plan for Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/test_plan.md/ )
 2. [Test plan for Expert Team](documentation/templates/theme/initiatives/test_plan.md)
 3. [Test plan for Academic Partnerships](documentation/templates/theme/initiatives/test_plan.md)
 4. [Test plan for Analytics System](documentation/templates/theme/initiatives/test_plan.md)
