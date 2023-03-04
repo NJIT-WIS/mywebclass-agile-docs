@@ -1,4 +1,4 @@
-"Title of the Initiative"
+"Ensure GDPR Compliance"
 
 Description: [A brief description of the initiative]
 
