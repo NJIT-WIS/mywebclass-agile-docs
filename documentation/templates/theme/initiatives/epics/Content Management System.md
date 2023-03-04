@@ -13,9 +13,15 @@ Enable collaboration and version control for content development
 **User Stories:**
 
 As a content creator, I want to easily create and edit educational materials, so that I can produce high-quality content efficiently.
+
+
 As a content manager, I want to review and approve content before publishing, so that I can ensure quality and consistency.
+
+
 As a content editor, I want to track changes and collaborate with other editors, so that I can improve the quality and accuracy of the content.
 
+
+As a curriculum designer, I want to be able to easily update and revise course materials on the course website so that I can ensure that the course remains up-to-date and relevant to the needs of students and the field.
 **Dependencies:**
 
 Integration with user registration and login system
