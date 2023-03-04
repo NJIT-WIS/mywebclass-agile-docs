@@ -132,7 +132,44 @@ At this juncture, the efficacy of the documentation is measured by how well it e
 review this effectiveness before the next iteration of the project.
 # Your  plan should replace the content below
 
-[Project Setup](documentation/theme_1/theme_project_setup.md)
+## Overview
+Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively
+develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
+solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
+us up for long-term success.
+## Themes & Stories
+
+1. [AI Education](documentation/templates/theme/theme_template.md/)
+2. [Cutting-Edge News](documentation/templates/theme/theme_template.md/)
+3. [Reinforcement Learning](documentation/templates/theme/theme_template.md/)
+4. [User Experience](documentation/templates/theme/theme_template.md/)
+
+
+## Initiatives
+
+1. [Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/curriculum_initiative.md)
+2. [Expert Team](documentation/templates/theme/initiatives/expertteam_initiative.md)
+3. [Academic Partnerships](documentation/templates/theme/initiatives/partnership_initiative.md)
+4. [Analytics System](documentation/templates/theme/initiatives/analytical_initiative.md)
+
+## Epics
+1. [Website Infrastructure](documentation/templates/theme/initiatives/epics/Website%20Infrastructure.md)
+2. [Content Management System](documentation/templates/theme/initiatives/epics/Content%20Management%20System.md)
+3. [Registration and Login](documentation/templates/theme/initiatives/epics/Registration%20and%20Login.md)
+4. [Analytics System](documentation/templates/theme/initiatives/epics/Analytics%20System.md)
+
+
+## Agile and Lean Plans
+1. [Agile plans](documentation/templates/theme/agile_lean_plan/agile_plan.md)
+2. [Lean plans](documentation/templates/theme/agile_lean_plan/lean_plan.md)
+
+
+## Test plan
+
+1. [Test plan for Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/test_plan.md/ )
+2. [Test plan for Expert Team](documentation/templates/theme/initiatives/test_plan.md)
+3. [Test plan for Academic Partnerships](documentation/templates/theme/initiatives/test_plan.md)
+4. [Test plan for Analytics System](documentation/templates/theme/initiatives/test_plan.md)
 
 ## Release Schedule
 
