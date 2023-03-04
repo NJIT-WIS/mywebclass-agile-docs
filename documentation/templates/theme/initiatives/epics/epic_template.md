@@ -1,5 +1,6 @@
 Title: Redesign the Company Website
 
+<!-- Could have more epics. Fix formatting for estimated time section -->
 Description:
 Revamp the company website to better reflect the brand and improve the user experience. The current website is outdated and difficult to navigate, which negatively impacts customer engagement and conversion rates.
 
