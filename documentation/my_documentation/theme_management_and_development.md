@@ -71,3 +71,11 @@ The testing strategy for this plan will include a combination of manual and auto
     2. Examine the website development process to verify that it follows lean management principles.
     3. Observe the website development process in action to ensure that it supports product development using the pull method.
     4. Verify that the website's product development practices align with the lean startup methodology by reviewing product development documentation and observing product development activities.
+
+## Document the outcome of each test case as follows:
+
+    Successful: The test case was completed as intended and generated the expected results.
+
+    Unsuccessful: The test case was not completed as intended or did not produce the expected results.
+    
+    Obstructed: The test case could not be executed due to technical or environmental constraints.
