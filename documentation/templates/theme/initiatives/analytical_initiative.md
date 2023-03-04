@@ -1,6 +1,6 @@
-"Title of the Initiative"
+"Analytics System"
 
-Description: [A brief description of the initiative]
+Description: Implement a robust analytics system to measure user behavior and gather data on website usage.
 
 Goals: [List the goals or objectives of the initiative]
 
