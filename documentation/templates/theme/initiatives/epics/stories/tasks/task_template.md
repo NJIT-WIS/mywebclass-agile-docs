@@ -1,15 +1,15 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: [pipeline set to trigger pon code repochanges]
 
-User Story: [Reference the user story that this task supports]
+User Story: [As a user Changes to the code repository should automatically activate the pipeline.]
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: [This work requires creating a pipeline that automatically activates when code repository updates occur. Automated tests should evaluate the upgraded code's functionality and deployment procedure in the pipeline.]
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: [4 hours]
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: [SAI VIKRAM KATTAMANCHi]
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: [HIGH]
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: [NOT STARTED]
 
-Notes: [Include]
+Notes: [N/A]
