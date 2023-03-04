@@ -1,15 +1,17 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: [Set up pipeline to trigger on code repository changes]
 
-User Story: [Reference the user story that this task supports]
+User Story: [As a user, the pipeline should be set up to trigger automatically whenever changes are made to the code repository]
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: [This task involves setting up a pipeline that automatically triggers when changes are made to the code repository.
+* The pipeline should include automated tests to verify the functionality and performance of the updated code, as well as the deployment process.
+]
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+Effort Estimate: [6 hours]
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: [Kajol Patel]
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: [High]
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: [Not Started]
 
-Notes: [Include]
+Notes: [N/a]
