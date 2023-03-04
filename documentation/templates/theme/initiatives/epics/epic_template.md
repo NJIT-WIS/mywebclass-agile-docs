@@ -1,10 +1,10 @@
-"Title of the Epic"
+"GDPR compliance"
 
-Description: [A brief description of the epic]
+Description: This epic would focus on ensuring that the website complies with GDPR regulations related to data protection and privacy.
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: Ensure GDPR compliance
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: As a website user, someone may want to know that their personal data is being protected in accordance with GDPR regulations, so that they can trust the website and feel safe using it.
 
 Dependencies: [List any dependencies that may impact the epic]
 
@@ -17,4 +17,4 @@ Business Value: [Specify the business value that will be delivered by the epic]
 Priority: [Assign a priority to the epic]
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. [GDPR-User story](documentation/templates/theme/initiatives/epics/stories/story_template.md)
