@@ -55,5 +55,5 @@ This initiative aims to establish a process for monitoring the quality of code t
 - Business Analyst: John Doe
 
 ## Epics related to this theme
-- Monitoring Quality of Code
-- Automated Code Testing
+- [Monitoring Quality of Code](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/epic_Monitoring_Quality_of_Code.md)
+- [Automated Code Testing](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/epic_Automated_Code_Testing.md)
