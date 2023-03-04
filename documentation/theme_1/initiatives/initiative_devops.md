@@ -44,4 +44,4 @@ DevOps Engineer: Implements the DevOps process and integrates it with existing t
 Quality Assurance: Tests the DevOps process to ensure compliance
 
 # List epics related to this theme
-1. [Epic 1](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/epic_initiative_devops.md)
+1. [Epic](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/epic_initiative_devops.md)
