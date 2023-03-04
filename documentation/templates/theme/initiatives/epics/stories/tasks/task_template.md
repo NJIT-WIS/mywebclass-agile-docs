@@ -1,15 +1,19 @@
-Task Title: [Short, descriptive title for the task]
+Task Title: Develop a documentation page for Mywebclass.org
 
-User Story: [Reference the user story that this task supports]
+User Story: 
 
-Description: [Describe the task in more detail. What needs to be done? What are the acceptance criteria? What are the dependencies?]
+Description: As a teacher, I want to be able to access a documentation page on Mywebclass.org that provides information about the latest technologies and courses, so that I can stay up-to-date on best practices and new developments in education.
+This task involves developing a documentation page for Mywebclass.org that provides information about the latest technologies and courses in education. The page should be easy to navigate and should provide clear and concise information about each technology or course. Acceptance criteria include:
 
-Effort Estimate: [Provide an estimate of the time required to complete the task, usually in hours or points]
+The documentation page is well-organized and easy to navigate, with clear categories or sections for different technologies or courses.
+The information provided on the documentation page is clear, concise, and up-to-date.
+The documentation page is integrated with the Mywebclass.org platform and is easily accessible to users.
+Effort Estimate: 12 hours
 
-Assigned To: [Assign the task to a team member who will be responsible for completing it]
+Assigned To: Rohan Parekh
 
-Priority: [Indicate the relative priority of this task compared to other tasks in the sprint]
+Priority: High
 
-Status: [Track the status of the task, such as "not started", "in progress", "blocked", or "completed"]
+Status: In progress
 
-Notes: [Include]
+Notes: None
