@@ -12,6 +12,8 @@ Ensure that the project plan and documentation are aligned with the overall busi
 ### Scope: 
 This initiative will cover the development of a comprehensive project plan and project management documentation that will guide the MyWebClass website development team throughout the project lifecycle.
 
+To structure our project planning, we'll use themes, initiatives, epics, user stories, and tasks aligned with our strategic goals. We aim to minimize "push" by using automated testing for user stories and tasks. We'll measure effectiveness with metrics aligned with our goals, following lean development principles for continuous improvement.
+
 ### Outcomes:
 
 A well-defined project plan that will guide the development and implementation of the MyWebClass website</br>
