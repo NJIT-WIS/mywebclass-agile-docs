@@ -10,10 +10,10 @@ Ensure smooth collaboration between the development team and other stakeholders.
 
 ### User Stories:
 
-As a project manager, I want to identify and document a DevOps process for MyWebClass.org so that we have a clear roadmap for implementation.</br>
-As a devops engineer, I want to implement a DevOps process for MyWebClass.org that includes continuous integration, testing, and deployment so that we can automate the development process.</br>
-As a developer, I want the DevOps process to be integrated with project management and collaboration tools so that we have a streamlined development process.</br>
-As a quality assurance tester, I want to test the DevOps process to ensure compliance with our requirements.</br>
+[As a project manager, I want to identify and document a DevOps process for MyWebClass.org so that we have a clear roadmap for implementation.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/37bffd4cc3f038d8be4df176472a9e8d78f05a82/documentation/theme_1/initiatives/epics/stories/User_Stories_DevOps.md)</br>
+[As a devops engineer, I want to implement a DevOps process for MyWebClass.org that includes continuous integration, testing, and deployment so that we can automate the development process.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/37bffd4cc3f038d8be4df176472a9e8d78f05a82/documentation/theme_1/initiatives/epics/stories/User_Stories_DevOps.md)</br>
+[As a developer, I want the DevOps process to be integrated with project management and collaboration tools so that we have a streamlined development process.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/37bffd4cc3f038d8be4df176472a9e8d78f05a82/documentation/theme_1/initiatives/epics/stories/User_Stories_DevOps.md)</br>
+[As a quality assurance tester, I want to test the DevOps process to ensure compliance with our requirements.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/37bffd4cc3f038d8be4df176472a9e8d78f05a82/documentation/theme_1/initiatives/epics/stories/User_Stories_DevOps.md)</br>
 
 ### Dependencies:
 
