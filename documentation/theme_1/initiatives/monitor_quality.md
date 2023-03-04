@@ -3,6 +3,8 @@
 ## Description
 This initiative aims to establish a process for monitoring the quality of code throughout the development lifecycle of our software products. By monitoring the quality of our code, we can identify and fix issues early on, which will ultimately result in higher quality products and increased customer satisfaction.
 
+Automated testing will be done using pytest for unit testing and Playwright for end-to-end testing. Manual testing will be used as necessary for themes, epics, and initiatives. User stories and tasks will rely mostly on automated testing.
+
 ## Goals
 - Improve the overall quality of our software products by detecting and fixing code issues early on
 - Increase customer satisfaction by delivering high-quality products that are reliable and efficient
