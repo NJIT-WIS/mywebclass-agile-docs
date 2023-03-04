@@ -11,10 +11,10 @@ Description: This epic focuses on creating a basic project plan and project mana
 
 ## User Stories:
 
-- As a project manager, I want to create a project charter to define the project scope and objectives.
-- As a project manager, I want to develop a project timeline with clear milestones and deadlines.
-- As a project manager, I want to create a project plan that outlines tasks and timelines for each project phase.
-- As a project manager, I want to create project management documentation, including a project management plan, communication plan, risk management plan, and change management plan.
+- [As a project manager, I want to create a project charter to define the project scope and objectives.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/user_story_basic_template.md)
+- [As a project manager, I want to develop a project timeline with clear milestones and deadlines.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/user_story_basic_template.md)
+- [As a project manager, I want to create a project plan that outlines tasks and timelines for each project phase.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/user_story_basic_template.md)
+- [As a project manager, I want to create project management documentation, including a project management plan, communication plan, risk management plan, and change management plan.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/user_story_basic_template.md)
 
 ## Dependencies:
 
@@ -40,5 +40,5 @@ Clear project planning and management documentation will help ensure that the pr
 High
 
 ## Related Stories:
-[User Stories](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/user_story_basic_template.md)
+
 
