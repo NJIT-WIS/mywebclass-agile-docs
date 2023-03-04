@@ -51,7 +51,7 @@ This test plan focuses on the following areas of the website development process
         Lean Principles: Verify that the website development process follows lean management principles, such as value stream mapping, waste reduction, and continuous improvement.
 
         Product Development: Examine the website development process to ensure that it supports product development using the pull method, including customer feedback, continuous experimentation, and data-driven decision making.
-        
+
         Lean Startup Methodology: Verify that the website's product development practices align with the lean startup methodology, including hypothesis testing, minimum viable products, and validated learning.
 ## Testing Strategy:
 The testing strategy for this plan will include a combination of manual and automated testing in a development environment. A QA tester will execute the test cases to examine the website development process and product development practices.
@@ -65,3 +65,9 @@ The testing strategy for this plan will include a combination of manual and auto
     Product Development: Examine the website development process to ensure that it supports product development using the pull method, including customer feedback, continuous experimentation, and data-driven decision making.
 
     Lean Startup Methodology: Verify that the website's product development practices align with the lean startup methodology, including hypothesis testing, minimum viable products, and validated learning.
+
+## Test Execution
+    1. Review the website development process documentation to verify that it follows agile methodologies.
+    2. Examine the website development process to verify that it follows lean management principles.
+    3. Observe the website development process in action to ensure that it supports product development using the pull method.
+    4. Verify that the website's product development practices align with the lean startup methodology by reviewing product development documentation and observing product development activities.
