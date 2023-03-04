@@ -1,5 +1,5 @@
 # Test Plan for the Initiatives
-### Initiative1: [Comprehensive curriculum for AI education](documentation/templates/theme/initiatives/curriculum_initiative.md)
+### Initiative1: [Comprehensive curriculum for AI education](curriculum_initiative.md)
 ### **Test Plan**
 
 * **Objective:**
@@ -16,7 +16,7 @@ A comprehensive curriculum for AI education, covering key subfields of AI and DL
 User feedback on the curriculum, including suggestions for improvement and areas of strength.
 Revised curriculum based on user feedback, updated to provide a more effective and engaging learning experience for users.
 
-### Initiative2: [Expert Team](documentation/templates/theme/initiatives/expertteam_initiative.md)
+### Initiative2: [Expert Team](expertteam_initiative.md)
 
 ### **Test Plan:**
 * **Objective:**
@@ -34,7 +34,7 @@ User feedback on the team's performance, including suggestions for improvement a
 Revised training materials and team composition based on user feedback, updated to ensure that the team is able to deliver high-quality content and guidance to users.
 
 
-### Initiative3: [Academic Partnerships](documentation/templates/theme/initiatives/partnership_initiative.md)
+### Initiative3: [Academic Partnerships](partnership_initiative.md)
 ### **Test Plan:**
 * **Objective:**
 To ensure that partnerships with academic and industry organizations are effective in promoting mywebclass.org as a valuable resource for learning about AI and attract a diverse user base.
@@ -51,7 +51,7 @@ Partnership agreements and referrals.
 Metrics tracking the effectiveness of partnerships.
 Improved outreach materials and partnership strategies based on feedback.
 
-### Initiative4: [Analytics System](documentation/templates/theme/initiatives/analytical_initiative.md)
+### Initiative4: [Analytics System](analytical_initiative.md)
 ### **Test Plan:**
 * **Objective:**
 To ensure that mywebclass.org complies with GDPR privacy regulations and effectively protects user data.

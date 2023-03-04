@@ -137,12 +137,12 @@ Our objective is to establish a highly visible web presence using lean and agile
 develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a
 solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting
 us up for long-term success.
-## Themes
+## Themes & Stories
 
-1. [AI Education](../templates/theme/theme_template.md)
-2. [Cutting-Edge News](../templates/theme/theme_template.md)
-3. [Reinforcement Learning](../templates/theme/theme_template.md)
-4. [User Experience](../templates/theme/theme_template.md)
+1. [AI Education](documentation/templates/theme/theme_template.md)
+2. [Cutting-Edge News](documentation/templates/theme/theme_template.md)
+3. [Reinforcement Learning](documentation/templates/theme/theme_template.md)
+4. [User Experience](documentation/templates/theme/theme_template.md)
 
 
 ## Initiatives
@@ -151,6 +151,13 @@ us up for long-term success.
 2. [Expert Team](documentation/templates/theme/initiatives/expertteam_initiative.md)
 3. [Academic Partnerships](documentation/templates/theme/initiatives/partnership_initiative.md)
 4. [Analytics System](documentation/templates/theme/initiatives/analytical_initiative.md)
+
+## Epics
+1. [Website Infrastructure](documentation/templates/theme/initiatives/epics/Website%20Infrastructure.md)
+2. [Content Management System](documentation/templates/theme/initiatives/epics/Content%20Management%20System.md)
+3. [Registration and Login](documentation/templates/theme/initiatives/epics/Registration%20and%20Login.md)
+4. [Analytics System](documentation/templates/theme/initiatives/epics/Analytics%20System.md)
+
 
 ## Agile and Lean Plans
 1. [Agile plans](documentation/templates/theme/agile_lean_plan/agile_plan.md)
