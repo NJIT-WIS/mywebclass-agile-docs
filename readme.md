@@ -38,6 +38,7 @@ To assist you with this project, I've included ALL of the code for required for 
 the [src/index.html](src/index.html) file and included comments as to why that line is in there, so that you can write a
 user story and eventually a test for it.
 
+comment
 ## Things to consider:
 
 1. Lean and Agile are both ideas that are complementary; however, neither is prescriptive in their implementation. Your
