@@ -9,8 +9,9 @@ Goals:
 - Establish a culture of continuous improvement and learning within our development team
 
 User Stories:
-- As a developer, I want to be able to write automated tests for my code, so that I can detect and fix issues early on.
-- As a development manager, I want to be able to track the progress of automated testing, so that I can ensure that it is being done effectively.
+
+- [As a developer, I want to be able to write automated tests for my code, so that I can detect and fix issues early on.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/Automated_Code_Testing.md)
+- [As a development manager, I want to be able to track the progress of automated testing, so that I can ensure that it is being done effectively.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/track_the_progress_of_automated_testing.md)
 
 Dependencies:
 - Availability of resources to develop and implement the automated testing process
