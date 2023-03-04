@@ -3,75 +3,73 @@ Title: Build a Modern, User-Friendly Website
 Description:
 Transform the company's online presence by building a new website that enhances the customer experience and drives business growth.
 
-<!-- fix formatting, put into bullet points (use * ) -->
+
 Goals:
 
-Enhance the customer experience through a modern, user-friendly website
-Increase website traffic, customer engagement, and revenue growth
-Provide a compelling digital presence that showcases the company's value proposition and products/services
+* Enhance customer experience through modern, user-friendly website
+* Increase website traffic, customer engagement, and revenue growth
+* Showcase company's value proposition and products/services with compelling digital presence
 
 Scope:
 
-Website design and development
-Content development
-Search engine optimization
-Mobile optimization
-Performance optimization
-Analytics and reporting
-
+* Website design and development
+* Content development
+* Search engine optimization
+* Mobile optimization
+* Performance optimization
+* Analytics and reporting
 
 Outcomes:
 
-A modern, user-friendly website that meets the company's business objectives
-Increased website traffic, customer engagement, and revenue growth
-A compelling digital presence that showcases the company's value proposition and products/services
-
+* Modern, user-friendly website that meets business objectives
+* Increased website traffic, customer engagement, and revenue growth
+* Compelling digital presence showcasing products/services
 
 Deliverables:
 
-A fully functional website that meets the design, content, and optimization requirements
-Relevant, compelling content that showcases the company's products/services
-Analytics and reporting tools that provide insights into website traffic, user behavior, and conversion rates
+* Fully functional website meeting design, content, and optimization requirements
+* Relevant, compelling content showcasing company's products/services
+* Analytics and reporting tools providing insights into website traffic, user behavior, and conversion rates
 
 Milestones:
 
-Website design and development: 3 months
-Content development: 2 months
-Search engine optimization: 1 month
-Mobile optimization: 1 month
-Performance optimization: 1 month
-Analytics and reporting: Ongoing
+* Website design and development: 3 months
+* Content development: 2 months
+* Search engine optimization: 1 month
+* Mobile optimization: 1 month
+* Performance optimization: 1 month
+* Analytics and reporting: ongoing
 
 Constraints:
 
-Budget limitations
-Time constraints
-Limited resources
+* Budget limitations
+* Time constraints
+* Limited resources
 
 Assumptions:
 
-The website development team has the necessary skills and expertise to deliver a high-quality website
-The website will be launched on schedule and without major technical issues
+* Website development team has necessary skills and expertise to deliver high-quality website
+* Website will be launched on schedule and without major technical issues
 
 Risks:
 
-Technical issues that delay the project timeline
-Changes in business objectives or requirements that impact the project scope
-Limited resources that impact the quality or functionality of the website
+* Technical issues that delay project timeline
+* Changes in business objectives or requirements that impact project scope
+* Limited resources impacting quality or functionality of website
 
 Dependencies:
 
-Approval and feedback from stakeholders and management
-Availability of resources, including design, development, and content teams
+* Approval and feedback from stakeholders and management
+* Availability of resources, including design, development, and content teams
 
 Team:
 
-Website development team
-Content development team
-Search engine optimization team
-Mobile optimization team
-Analytics and reporting team
-Program/portfolio management team
+* Website development team
+* Content development team
+* Search engine optimization team
+* Mobile optimization team
+* Analytics and reporting team
+* Program/portfolio management team
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
