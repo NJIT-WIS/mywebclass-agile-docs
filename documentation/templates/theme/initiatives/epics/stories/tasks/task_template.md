@@ -51,7 +51,7 @@ User Story: As a user, I want the website to load quickly so that I can access t
 Description: Optimize website performance by implementing best practices such as minimizing image sizes, compressing files, and using caching techniques. Acceptance Criteria: The website should load in under 3 seconds on average. Image sizes should be minimized, files should be compressed, and caching techniques should be used to improve performance.
 
 Effort Estimate: 10 hours
-
+ 
 Assigned To: David
 
 Priority: Medium
