@@ -1,3 +1,5 @@
+<!-- need formatting -->
+
 Task Title: Design Website Layout
 User Story: As a user, I want to see an attractive and easy-to-use layout so that I can navigate the website easily.
 Description: Develop a layout for the website that is visually appealing, easy to navigate and consistent with the company's branding guidelines. Ensure that the layout is responsive and compatible with different devices. Acceptance Criteria: The layout should include a navigation bar, a header, a footer, and a content section. The design should be consistent with the company's branding guidelines and be visually appealing. The layout should be responsive and compatible with different devices.
