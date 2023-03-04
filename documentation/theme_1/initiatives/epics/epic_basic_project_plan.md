@@ -40,5 +40,5 @@ Clear project planning and management documentation will help ensure that the pr
 High
 
 ## Related Stories:
-
+[User Stories](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/user_story_basic_template.md)
 
