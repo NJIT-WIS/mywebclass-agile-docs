@@ -4,6 +4,8 @@
 Our objective is to establish a highly visible web presence using lean and agile principles to quickly and effectively develop a strong foundation for our web project. By completing the initiatives outlined in this theme, we can establish a solid foundation that ensures our web page meets our business requirements throughout the life of the project, setting us up for long-term success.
 
 ## Initiatives
+
+
 We will undertake the following initiatives to achieve our objective:
 
 1. * [Project scope](initiatives/initiative_devops.md) Develop initial project documentation to establish a clear project scope. This documentation will include details on the project goals, requirements, timelines, stakeholders, and budget. By having a clear project scope documented, we can ensure that everyone involved in the project understands what is expected and can work together more efficiently.
