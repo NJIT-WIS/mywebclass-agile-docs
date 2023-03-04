@@ -4,6 +4,8 @@
 
 Develop a basic website template for MyWebClass.org that meets all legal requirements, allows for Google Analytics integration, passes w3c validation, Lighthouse, GDPR Scanner, and implements basic on-page SEO requirements.
 
+Continuous improvement will be incorporated by measuring the effectiveness of the initiative and identifying areas for improvement.
+
 ### Goals:
 
 Create a website template that meets all legal requirements and allows for Google Analytics integration.
@@ -12,6 +14,8 @@ Ensure the website template passes w3c validation, Lighthouse, GDPR Scanner, and
 ### Scope: 
 The scope of this initiative is limited to the development of a basic website template that meets legal requirements and allows for Google Analytics integration.
 
+Tracking metrics to measure continuous improvement.
+
 ### Outcomes:
 A basic website template that meets legal requirements and allows for Google Analytics integration.
 Website template that passes w3c validation, Lighthouse, GDPR Scanner, and implements basic on-page SEO requirements.
@@ -19,6 +23,8 @@ Website template that passes w3c validation, Lighthouse, GDPR Scanner, and imple
 ### Deliverables:
 MyWebClass.org base website template that meets legal requirements
 Google Analytics integration, W3c validation, Lighthouse, GDPR Scanner, and basic on-page SEO requirements implemented
+
+Quantitative data on the effectiveness of each theme, initiative, epic, user story, and task.
 
 ### Milestones:
 Milestone 1: Legal requirements identified and documented (2 weeks) </br>
