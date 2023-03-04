@@ -10,10 +10,11 @@ Goals:
 - Establish a culture of continuous improvement and learning within our development team
 
 User Stories:
-- As a developer, I want to integrate code quality monitoring tools into our development workflow so that I can identify and fix issues early on in the development process.
-- As a project manager, I want to establish a standardized process for monitoring code quality so that I can ensure the quality of our software products.
-- As a QA specialist, I want to develop and implement a set of metrics for monitoring code quality so that I can measure the effectiveness of our code quality monitoring process.
-- As a developer, I want to receive training on the code quality monitoring process and tools so that I can effectively monitor the quality of my code.
+
+- [As a developer, I want to integrate code quality monitoring tools into our development workflow so that I can identify and fix issues early on in the development process.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/code_quality_monitoring_tools)
+- [As a project manager, I want to establish a standardized process for monitoring code quality so that I can ensure the quality of our software products.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/standardized%20process_for_monitoring_code)
+- [As a QA specialist, I want to develop and implement a set of metrics for monitoring code quality so that I can measure the effectiveness of our code quality monitoring process.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/metrics%20for_monitoring_code_quality)
+- [As a developer, I want to receive training on the code quality monitoring process and tools so that I can effectively monitor the quality of my code.](https://github.com/GraceBurke-88/mywebclass-agile-docs/blob/main/documentation/theme_1/initiatives/epics/stories/training_on_the_code_quality_monitoring)
 
 Dependencies:
 - Availability of resources to develop and implement the code quality monitoring process
