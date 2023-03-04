@@ -31,11 +31,7 @@
 
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
-- As a user, I want to be able to create an account so that I can access the application
-2. [Story 2]
-- As a user, I want to be able to log in to the application using my credentials
-3. [Story 3]
-- As a user, I want to be able to reset my password if I forget it
-4. [Story 4]
-- As an administrator, I want to be able to manage user accounts and permissions
+1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md) - As a user, I want to be able to create an account so that I can access the application
+2. [Story 2] - As a user, I want to be able to log in to the application using my credentials
+3. [Story 3] - As a user, I want to be able to reset my password if I forget it
+4. [Story 4] - As an administrator, I want to be able to manage user accounts and permissions
