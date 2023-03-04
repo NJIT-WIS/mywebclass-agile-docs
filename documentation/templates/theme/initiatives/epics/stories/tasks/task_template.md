@@ -77,3 +77,11 @@ Status: Not started
 
 Notes: Need to prepare a test plan and test the website thoroughly on different devices and browsers.
 
+Task Title: Adding Automatic testing
+Description: Add Automatic tests to ensure that the website is functioning properly.
+Effort Estimate: 5 hours
+Assigned to: Max
+Priority: High
+Status: started
+Notes: N/A
+
