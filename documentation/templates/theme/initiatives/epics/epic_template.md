@@ -1,20 +1,34 @@
-"Title of the Epic"
+[Epic Title]
+As a [user], I want [goal], so that [benefit].
 
-Description: [A brief description of the epic]
+[Description]
+[Provide a brief description of the epic and its purpose.]
 
-Goals: [List the high-level goals or objectives of the epic]
+[Acceptance Criteria]
+- [Criteria 1]
+- [Criteria 2]
+- [Criteria 3]
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+[Dependencies]
+- [Dependency 1]
+- [Dependency 2]
+- [Dependency 3]
 
-Dependencies: [List any dependencies that may impact the epic]
+[Assumptions]
+- [Assumption 1]
+- [Assumption 2]
+- [Assumption 3]
 
-Risks: [List the potential risks and mitigation strategies]
+[Constraints]
+- [Constraint 1]
+- [Constraint 2]
+- [Constraint 3]
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+[Notes]
+- [Note 1]
+- [Note 2]
+- [Note 3]
 
-Business Value: [Specify the business value that will be delivered by the epic]
-
-Priority: [Assign a priority to the epic]
 
 # List stories related to this theme
 1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)

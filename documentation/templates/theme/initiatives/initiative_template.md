@@ -1,26 +1,44 @@
-"Title of the Initiative"
+[Initiative Title]
+As a [user], I want [goal], so that [benefit].
 
-Description: [A brief description of the initiative]
+[Description]
+[Provide a brief description of the initiative and its purpose.]
 
-Goals: [List the goals or objectives of the initiative]
+[Objectives]
+- [Objective 1]
+- [Objective 2]
+- [Objective 3]
 
-Scope: [Define the scope of the initiative]
+[Key Results]
+- [Key Result 1]
+- [Key Result 2]
+- [Key Result 3]
 
-Outcomes: [Describe the expected outcomes of the initiative]
+[Epics]
+- [Epic 1]
+- [Epic 2]
+- [Epic 3]
 
-Deliverables: [List the expected deliverables of the initiative]
+[Dependencies]
+- [Dependency 1]
+- [Dependency 2]
+- [Dependency 3]
 
-Milestones: [List the major milestones and their timelines]
+[Assumptions]
+- [Assumption 1]
+- [Assumption 2]
+- [Assumption 3]
 
-Constraints: [Identify any constraints or limitations that may impact the initiative]
+[Constraints]
+- [Constraint 1]
+- [Constraint 2]
+- [Constraint 3]
 
-Assumptions: [List any assumptions made about the initiative]
+[Notes]
+- [Note 1]
+- [Note 2]
+- [Note 3]
 
-Risks: [List the potential risks and mitigation strategies]
-
-Dependencies: [List any dependencies that may impact the initiative]
-
-Team: [Identify the team members and their roles in the initiative]
 
 # List epics related to this theme
 1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
