@@ -1,0 +1,26 @@
+Epic 2: "Agile Methodology Implementation"
+
+Description: This epic focuses on incorporating Agile methodologies into the teaching of modern software development technologies. This includes creating a hands-on learning environment that contextualizes technology with business processes and implementing a CI/CD process for improved workflow.
+
+Goals:
+
+Provide a practical and realistic learning environment for students
+Improve workflow and efficiency of development process
+Ensure students are prepared for success in the tech industry
+User Stories:
+
+As a teacher at MyWebClass, I want to incorporate Agile methodologies in teaching modern software development technologies, so that students can learn in a practical and realistic environment.
+As a teacher at MyWebClass, I want to implement a CI/CD process for improved workflow, so that we can quickly and effectively deliver project outcomes.
+Dependencies:
+
+Availability of resources for Agile implementation
+Cooperation and participation from teaching staff
+Risks:
+
+Resistance from teaching staff to Agile implementation
+Limited resources for implementation
+Estimated Effort: 80 hours
+
+Business Value: Improved learning outcomes and increased efficiency in development process.
+
+Priority: High

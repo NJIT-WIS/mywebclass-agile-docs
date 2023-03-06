@@ -1,0 +1,5 @@
+User Stories for "Continuous Integration/Continuous Deployment" Epic:
+
+As a website administrator, I want to ensure that all code changes are automatically tested and deployed to production, so that we can quickly release new features and updates to the website without downtime or errors.
+As a website developer, I want to have a streamlined and efficient workflow for making code changes, testing them, and deploying them, so that I can focus more on writing quality code and less on tedious manual processes.
+As a website administrator, I want to be able to roll back to previous versions of the website quickly and easily if there are any issues or errors with the latest release, so that we can minimize the impact on website visitors and maintain a high level of availability.

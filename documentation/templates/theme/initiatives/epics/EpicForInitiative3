@@ -1,0 +1,26 @@
+Epic 3: "GDPR Compliance and Privacy Policy"
+
+Description: This epic focuses on ensuring compliance with GDPR regulations and creating a privacy policy for MyWebClass. This includes implementing measures to protect personal data and providing clear and transparent information about data collection and usage.
+
+Goals:
+
+Protect user privacy and personal data
+Ensure compliance with GDPR regulations
+Increase trust and confidence in MyWebClass as a platform
+User Stories:
+
+As a website user, I want to trust that my personal data is protected in accordance with GDPR regulations, so that I can learn modern software development technologies without any worries about my privacy.
+As a website owner, I want to ensure compliance with GDPR regulations, so that I can protect user privacy and avoid legal consequences.
+Dependencies:
+
+Familiarity with GDPR regulations and requirements
+Technical implementation of privacy measures
+Risks:
+
+Failure to comply with GDPR regulations and legal consequences
+Lack of user trust and confidence due to inadequate privacy measures
+Estimated Effort: 40 hours
+
+Business Value: Increased user trust and confidence in MyWebClass as a platform.
+
+Priority: Medium
