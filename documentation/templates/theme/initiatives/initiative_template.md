@@ -20,7 +20,7 @@ Risks: [List the potential risks and mitigation strategies]
 
 Dependencies: [List any dependencies that may impact the initiative]
 
-Team: [Identify the team members and their roles in the initiative]
+Team: [Identify the team members and their roles in the initiative] 
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. [Epic 1](/documentation/templates/theme/initiatives/epics/epic_template.md)
